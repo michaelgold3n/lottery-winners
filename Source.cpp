@@ -1,9 +1,3 @@
-/*Lab_Assignment_B.Green.cpp
-Bryce Green
-3/28/2021
-Version 1.0
-The program takes the 10 five digit numbers in the vector and asks the user to input a 5 digit number to see if it matches and if they are lucky or not.*/
-
 #include <iostream>
 #include <vector>
 using namespace std;
